@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1772181851108" clover="3.2.0">
-  <project timestamp="1772181851108" name="All files">
+<coverage generated="1775211271163" clover="3.2.0">
+  <project timestamp="1775211271164" name="All files">
     <metrics statements="13" coveredstatements="13" conditionals="22" coveredconditionals="21" methods="3" coveredmethods="3" elements="38" coveredelements="37" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
-    <file name="calculNote.js" path="C:\Users\user\Desktop\ING2\sem2\devops\tp\tp-api-nodejs\utils\calculNote.js">
+    <file name="calculNote.js" path="C:\ING 2\S2\Devops\tp-api-nodejs\utils\calculNote.js">
       <metrics statements="13" coveredstatements="13" conditionals="22" coveredconditionals="21" methods="3" coveredmethods="3"/>
       <line num="4" count="3" type="stmt"/>
       <line num="12" count="8" type="cond" truecount="4" falsecount="0"/>

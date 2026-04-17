@@ -1,7 +1,6 @@
 // Serveur Express principal - Application de gestion des étudiants
 const express = require('express');
 const dotenv = require('dotenv');
-const connectDB = require('./config/database');
 
 // ============================================
 // CONFIGURATION
@@ -9,6 +8,8 @@ const connectDB = require('./config/database');
 
 // Charger les variables d'environnement depuis . env
 dotenv.config();
+
+const connectDB = require('./config/database');
 
 // Connexion à la base de données MongoDB
 connectDB();
